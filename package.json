@@ -1,0 +1,14 @@
+{
+  "name": "jswordgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wordgame.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
